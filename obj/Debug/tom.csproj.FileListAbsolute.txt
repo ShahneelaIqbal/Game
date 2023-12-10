@@ -1,0 +1,16 @@
+D:\Semester 2\OOP\Project\My Game\tom\bin\Debug\tom.exe.config
+D:\Semester 2\OOP\Project\My Game\tom\bin\Debug\tom.exe
+D:\Semester 2\OOP\Project\My Game\tom\bin\Debug\tom.pdb
+D:\Semester 2\OOP\Project\My Game\tom\bin\Debug\EZInput.dll
+D:\Semester 2\OOP\Project\My Game\tom\bin\Debug\EZInput.xml
+D:\Semester 2\OOP\Project\My Game\tom\obj\Debug\tom.csproj.AssemblyReference.cache
+D:\Semester 2\OOP\Project\My Game\tom\obj\Debug\tom.Form1.resources
+D:\Semester 2\OOP\Project\My Game\tom\obj\Debug\tom.Properties.Resources.resources
+D:\Semester 2\OOP\Project\My Game\tom\obj\Debug\tom.csproj.GenerateResource.cache
+D:\Semester 2\OOP\Project\My Game\tom\obj\Debug\tom.csproj.CoreCompileInputs.cache
+D:\Semester 2\OOP\Project\My Game\tom\obj\Debug\tom.csproj.CopyComplete
+D:\Semester 2\OOP\Project\My Game\tom\obj\Debug\tom.exe
+D:\Semester 2\OOP\Project\My Game\tom\obj\Debug\tom.pdb
+D:\Semester 2\OOP\Project\My Game\tom\obj\Debug\tom.End.resources
+D:\Semester 2\OOP\Project\My Game\tom\obj\Debug\tom.Front.resources
+D:\Semester 2\OOP\Project\My Game\tom\obj\Debug\tom.Win.resources
